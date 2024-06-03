@@ -10,3 +10,6 @@ To run this project, you will need to install the following dependencies:
 pip install -r requirements.txt
 ```
 ## Web
+HOME PAGE :
+<img width="900" alt="Screenshot 2024-05-22 at 10 17 18 PM" src="https://github.com/Manusd04/RESUME-RANKER-/assets/92382837/40e46081-06c6-40b8-bf9b-eb7a370f651f">
+MAIN PAGE:
